@@ -1,0 +1,1 @@
+he core code of the main innovations in this study has been added to yolov8-DGF\ultralytics\nn\modules\block.py. Once we complete our subsequent research, we will upload the full project code as soon as possible. Thank you for your attention!
